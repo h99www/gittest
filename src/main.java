@@ -7,10 +7,8 @@ public class main {
         System.out.println(" test " );
         System.out.println(" test " );
         System.out.println(" test " );
-<<<<<<< HEAD
+
         System.out.println(" test " );
         System.out.println(" test " );
-=======
->>>>>>> master
     }
 }
